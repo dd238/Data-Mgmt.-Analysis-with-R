@@ -1,3 +1,5 @@
-This project requires installing the "mosaicData" package and including it as a library.
+Creator: Dylan Davis
 
-The "Births" data set is used to perform various functions on it.
+This repo is a list of programs used to clean and analyze various datasets.
+
+Each project includes a separate README file inside its directory.
